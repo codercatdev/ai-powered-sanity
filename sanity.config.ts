@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'AI-powered',
+  title: 'My Bakery',
 
   projectId: '7gb3w45z',
   dataset: 'production',
